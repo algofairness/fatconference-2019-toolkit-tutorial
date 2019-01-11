@@ -3,48 +3,22 @@ layout: default
 title: {{ site.name }}
 ---
 
-# Auditing Black Box Models
+# "pip install fairness"
 
-* Where: [FAT*](https://www.fatconference.org/2018/program.html)
-* When: 2018-02-23, 4-5PM EST, Vanderbilt Hall 204
-* Who: [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh), [Carlos Scheidegger](https://cscheid.net), Charlie Marx
+* Where: [FAT*](https://fatconference.org/2019/acceptedtuts.html)
+* When: TBD
+* Who: [Sorelle Friedler](https://sorelle.friedler.net), [Carlos Scheidegger](https://cscheid.net), [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh)
 
-Models learned through machine learning can be hard to interpret. A
-model that takes many inputs and has many parameters might depend on
-the inputs in complicated ways. This makes it hard to know if, for
-example,
-
-• the model might indirectly depend on protected attributes of the
-input that users of the model might prefer it not do (for example race
-via zipcode).
-
-• the model depends heavily on input attributes that domain knowledge
-might suggest should not be an important factor (for example, a system
-that predicts the output of a chemical reaction but appears to be
-influenced by the time the reaction is run).
-
-This tutorial will teach the audience to use a software library
-developed by the presenters of the tutorial through a sequence of
-simple examples in a Jupyter notebook. The presenters will focus
-on understanding current strengths and limitations of the method, and
-how tutorial attendees can use this method in their own datasets.
+TBD.
 
 ## Materials
 
-* Get the talk slides, in [PDF](slides.pdf) or [PPTX](slides.pptx).
-* Follow the [installation instructions](install.html).
-* Get the [Jupyter Notebook](tutorial.ipynb) for the hands-on demo.
+TBD.
 
 ## Papers
 
-Suresh, Carlos, and Charlie are the ones presenting the tutorial; but
-the techniques themselves were designed in collaboration with many
-other people, and the work is described in these papers:
+TBD.
 
-* Feldman et al., [Certifying and Removing Disparate Impact](https://dl.acm.org/citation.cfm?id=2783311), KDD 2015
-* Adler et al., [Auditing Black-Box Models for Indirect Influence](https://link.springer.com/article/10.1007/s10115-017-1116-3), Knowledge and Information Systems, 54(1):95--122, 2018.
+## GitHub Repository
 
-## BlackBoxAuditing repository
-
-The source code for the `BlackBoxAuditing` library itself is currently hosted [on a GitHub repository](https://github.com/algofairness/BlackBoxAuditing).
-
+TBD.
