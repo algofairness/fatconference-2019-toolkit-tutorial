@@ -81,10 +81,10 @@ charting library, which itself requires `vega`), although they are not requireme
     (venv) $ pip3 install pandas altair vega jupyter notebook
     ...
     
-We're almost there. Now, download the [zip with the actual notebook files we'll be
-using in this tutorial](tutorial-notebooks.zip) into the
-`auditing-tutorial` directory, and start the Jupyter notebook
-application itself:
+We're almost there. Now, download the [zip with the actual notebook
+files we'll be using in this tutorial](tutorial-notebooks.zip), unzip
+it into a new directory (below, we're calling it `nb`), and start the
+Jupyter notebook application itself:
 
     (venv) $ curl -O https://algofairness.github.io/fatconference-2019-toolkit-tutorial/tutorial-notebooks.zip
 	(venv) $ mkdir nb
