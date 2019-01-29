@@ -1,7 +1,7 @@
-# Auditing Black Box Models
+# pip install fairness
 
-This is the repository fof the website for the FAT* 2018 tutorial on
-Auditing Black Box Models.
+This is the repository for the website for the FAT* 2019 tutorial on
+pip install fairness.
 
 ## Theme
 
